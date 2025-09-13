@@ -1,7 +1,0 @@
-phpunit
-phpunit.xml.dist
-.phpcs.xml.dist
-tests
-bin
-.vscode
-vendor/
